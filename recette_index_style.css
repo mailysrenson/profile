@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+footer {
+  text-align: center;
+}
+
+footer a {
+  font-size: 13px;
+}
+
 .banner {
   margin-top: 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("images/fruit-salads-in-plate-1640774.jpg");
