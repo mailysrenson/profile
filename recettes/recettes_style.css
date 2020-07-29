@@ -1,3 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .banner {
   margin-top: 0;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url("../images/close-up-photography-of-banana-bread-on-saucer-830894.jpg");
