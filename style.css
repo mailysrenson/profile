@@ -74,6 +74,14 @@ ul > li {
   margin: 10px 10px;
 }
 
+/* cards */
+.image-card {
+  border-radius: 5%;
+  width: 70%;
+
+}
+
+
 /* MEDIA QUERIES */
 
 @media (max-width: 960px) {
